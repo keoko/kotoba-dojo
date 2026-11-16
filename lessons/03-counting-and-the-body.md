@@ -44,6 +44,7 @@ Beyond ten, it's like building blocks: 11 = *jū-ichi* (ten-one), 20 = *ni-jū* 
 | **te** | て | hand |
 | **kote** | こて | wrist / forearm (lit. "small hand") |
 | **ude** | うで | arm |
+| **hiji** | ひじ | elbow — *hiji-kime-osae* (elbow lock) |
 | **kata** | かた | shoulder |
 | **kubi** | くび | neck |
 | **mune** | むね | chest |

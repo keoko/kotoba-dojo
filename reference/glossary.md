@@ -39,7 +39,8 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 |--------|----------|-------|-------------------|---|
 | uke | うけ | 受け | receiver | 2, 4 |
 | nage | なげ | 投げ | thrower | 4 |
-| tori | とり | 取り | taker (used instead of *nage* in some styles) | 4 |
+| tori | とり | 取り | taker (used instead of *nage* in some styles) | 4, 5 |
+| shite | して | 仕手 | doer (used instead of *nage* in some styles) | 5 |
 | aite | あいて | 相手 | partner | 2, 3 |
 | ukemi | うけみ | 受身 | receiving body; breakfall | 3, 6 |
 
@@ -68,13 +69,14 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | ushiro | うしろ | 後ろ | behind | 3 |
 | ue | うえ | 上 | up | 1, 6 |
 | shita | した | 下 | down | 2, 6 |
-| omote | おもて | 表 | front side | 3, 6 |
-| ura | うら | 裏 | back side | 3, 6 |
+| omote | おもて | 表 | front side | 3, 5, 6 |
+| ura | うら | 裏 | back side | 3, 5, 6 |
 | yoko | よこ | 横 | side | 3, 6 |
 | te | て | 手 | hand | 2, 6 |
 | kote | こて | 小手 | small hand; wrist | 2, 6 |
 | tekubi | てくび | 手首 | hand-neck; wrist | 4 |
 | ude | うで | 腕 | arm | 3 |
+| hiji | ひじ | 肘 | elbow | 3 |
 | kata | かた | 肩 | shoulder | 3 |
 | kubi | くび | 首 | neck | 3 |
 | mune | むね | 胸 | chest | 3 |
@@ -116,8 +118,8 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | jūji-nage | じゅうじなげ | 十字投げ | cross throw | 5, 6 |
 | sumi-otoshi | すみおとし | 隅落とし | corner drop | 5 |
 | kote-gaeshi | こてがえし | 小手返し | wrist turn-out | 4, 5 |
-| irimi | いりみ | 入身 | entering | 3, 6 |
-| tenkan | てんかん | 転換 | turning | 2 |
+| irimi | いりみ | 入身 | entering body; entering | 3, 5, 6 |
+| tenkan | てんかん | 転換 | turn-change; turning | 2, 5 |
 | suwari-waza | すわりわざ | 座り技 | sitting techniques | 4 |
 | hanmi handachi | はんみはんだち | 半身半立ち | half-body half-standing | 4 |
 | waza | わざ | 技 | technique | 4, 6 |

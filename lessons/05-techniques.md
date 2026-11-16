@@ -1,6 +1,6 @@
 # Lesson 5 — Techniques
 
-> **Goal:** understand the names of the core techniques, and finish hiragana with small letters and long vowels. After this lesson you can write any word in hiragana.
+> **Goal:** understand the names of the core techniques, learn the pairs irimi/tenkan, omote/ura and uke/tori, and finish hiragana with small letters and long vowels. After this lesson you can write any word in hiragana.
 
 ## 1. The numbered pins: *-kyō*
 
@@ -13,7 +13,7 @@
 | **sankyō** | san + kyō | third teaching |
 | **yonkyō** | yon + kyō | fourth teaching (not *shi*!) |
 | **gokyō** | go + kyō | fifth teaching |
-| **rokkyō** | roku + kyō | sixth teaching (in some styles) |
+| **rokkyō** | roku + kyō | sixth teaching (in some styles) — also called **hiji-kime-osae**, "elbow-lock pin" (*hiji* = elbow) |
 
 Notice: *ichi* + *kyō* → **ikkyō**, *roku* + *kyō* → **rokkyō**. The final vowel drops and the consonant doubles. This is a common sound change with numbers — you'll see it in *ippon* (one long thing), *hassen* (8,000), and more.
 
@@ -33,7 +33,54 @@ Notice: *ichi* + *kyō* → **ikkyō**, *roku* + *kyō* → **rokkyō**. The fin
 
 Fun fact: *jūji* is literally "the character for ten" — because 十 looks like a cross. And *tenchi-nage* is a whole worldview in two characters: one hand to heaven, one to earth.
 
-## 3. Reading corner: small letters
+## 3. Pairs that shape every technique
+
+Most techniques are named by an attack, a technique and a **variation**: *katate-dori ikkyō **omote***. Three pairs come up again and again.
+
+### Irimi 入身 / Tenkan 転換 — entering and turning
+
+| | Kanji | Literal | On the mat |
+|-|-------|---------|------------|
+| **irimi** | 入 enter + 身 body | "entering body" | Step *into* the attack, past uke's line, instead of backing away |
+| **tenkan** | 転 turn + 換 change | "turn and change" | Pivot on the front foot, turning to face the same way uke faces |
+
+Many dojos practise them together as the footwork drill **irimi-tenkan**. And you know 転 already: it's the *ten* in **回転投げ** *kaiten-nage*, "rotation throw".
+
+### Omote 表 / Ura 裏 — front and back
+
+| | Kanji | Everyday meaning | On the mat |
+|-|-------|------------------|------------|
+| **omote** | 表 | the surface, the front side of a sheet of paper | Nage enters **in front of** uke |
+| **ura** | 裏 | the reverse, the back, the lining | Nage moves **behind** uke, usually with a turn (*tenkan*) |
+
+The words are everyday Japanese: the *ura* of a coin is its back, and 裏口 *uraguchi* ("back mouth") is a back door. Some styles use other names for the same idea: Yoshinkan, for example, numbers them **ichi** (1) and **ni** (2).
+
+### Uke 受け / Tori 取り — who receives, who takes
+
+| | Kanji | From the verb | Role |
+|-|-------|---------------|------|
+| **uke** | 受け | 受ける *ukeru*, to receive | Attacks, then *receives* the technique and falls |
+| **tori** | 取り | 取る *toru*, to take | Does the technique |
+
+Uke is the attacker, but the name says *receiver*: uke receives the technique. The partner doing the technique has different names in different dojos:
+
+| Name | Kanji | Literal |
+|------|-------|---------|
+| **tori** | 取り | the one who takes |
+| **nage** | 投げ | the one who throws |
+| **shite** | 仕手 | the one who does |
+
+All three mean the same role, so use whichever your dojo uses. (*Shite* is built from *shi*, the stem of *suru* "to do", plus *te* "person", so it really is "the doer". It sounds exactly like して, the *-te* form of *suru*, which you'll meet in lesson 7.)
+
+### Reading the pairs
+
+| Hiragana | Romaji |
+|----------|--------|
+| **いりみ** / **てんかん** | irimi / tenkan |
+| **おもて** / **うら** | omote / ura |
+| **うけ** / **とり** / **なげ** / **して** | uke / tori / nage / shite |
+
+## 4. Reading corner: small letters
 
 ### Small ゃ ゅ ょ — combined sounds
 
@@ -77,7 +124,7 @@ Long vowels are written by adding a vowel:
 
 So the macrons in *dōjō* are not decoration — they're real letters: **ど・う・じょ・う**.
 
-## 4. Read every technique
+## 5. Read every technique
 
 | Hiragana | Romaji |
 |----------|--------|
@@ -107,6 +154,9 @@ So the macrons in *dōjō* are not decoration — they're real letters: **ど・
 3. Count the beats: **しょうめんうち**, **いっきょう**, **りょうてどり**.
 4. Read: **きょう**, **しゃしん**, **ちょっと**, **りょこう**, **がっこう**.
 5. Write in hiragana: *kokyū*, *nikyō*, *dōjō*, *gokyō*, *ryōte-dori*.
+6. In *ikkyō ura*, where does nage go: in front of uke or behind? Which footwork usually goes with it?
+7. Uke attacks first, so why is uke called "the receiver"?
+8. What are three names for the partner who does the technique?
 
 ## On the mat
 
@@ -122,4 +172,7 @@ Before each technique, picture its name written in hiragana. *Shihō-nage* → �
 3. *sho-u-me-n-u-chi* = 6 beats; *i-k-kyo-u* = 4; *ryo-u-te-do-ri* = 5
 4. *kyō* (today), *shashin* (photo), *chotto* (a little), *ryokō* (travel), *gakkō* (school)
 5. こきゅう, にきょう, どうじょう, ごきょう, りょうてどり
+6. Behind uke (裏, "the back side"), usually with *tenkan*.
+7. Because uke *receives* the technique (受ける *ukeru*, to receive).
+8. *tori* (取り, taker), *nage* (投げ, thrower), *shite* (仕手, doer).
 </details>
