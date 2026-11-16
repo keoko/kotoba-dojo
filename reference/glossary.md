@@ -26,6 +26,7 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | hakama | はかま | 袴 | pleated trousers | 3, 8 |
 | obi | おび | 帯 | belt | 8 |
 | senpai | せんぱい | 先輩 | senior student | 8 |
+| uchi-deshi | うちでし | 内弟子 | inside disciple; live-in student | 5 |
 | kōhai | こうはい | 後輩 | junior student | 8 |
 | shihan | しはん | 師範 | master instructor | 8 |
 | kyū | きゅう | 級 | grade (below black belt) | 8 |
@@ -72,6 +73,8 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | omote | おもて | 表 | front side | 3, 5, 6 |
 | ura | うら | 裏 | back side | 3, 5, 6 |
 | yoko | よこ | 横 | side | 3, 6 |
+| soto | そと | 外 | outside | 5 |
+| uchi | うち | 内 | inside (not 打ち, strike) | 5 |
 | te | て | 手 | hand | 2, 6 |
 | kote | こて | 小手 | small hand; wrist | 2, 6 |
 | tekubi | てくび | 手首 | hand-neck; wrist | 4 |
@@ -112,6 +115,8 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | shihō-nage | しほうなげ | 四方投げ | four-direction throw | 5, 6 |
 | irimi-nage | いりみなげ | 入身投げ | entering-body throw | 5, 6 |
 | kaiten-nage | かいてんなげ | 回転投げ | rotation throw | 5, 6 |
+| soto-kaiten-nage | そとかいてんなげ | 外回転投げ | outside rotation throw | 5 |
+| uchi-kaiten-nage | うちかいてんなげ | 内回転投げ | inside rotation throw | 5 |
 | tenchi-nage | てんちなげ | 天地投げ | heaven-earth throw | 5, 6 |
 | koshi-nage | こしなげ | 腰投げ | hip throw | 5 |
 | kokyū-nage | こきゅうなげ | 呼吸投げ | breath throw | 5 |
