@@ -77,6 +77,7 @@ So:
 | **左** | hidari | left | |
 | **上** | ue / jō | up | 上段 *jōdan* — upper level |
 | **下** | shita / ge | down | 下段 *gedan* — lower level |
+| **中** | naka / chū | middle, inside | 中段 *chūdan* — middle level |
 | **表** | omote | front side | |
 | **裏** | ura | back side | |
 

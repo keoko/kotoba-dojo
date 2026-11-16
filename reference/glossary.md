@@ -74,6 +74,9 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | ura | うら | 裏 | back side | 3, 5, 6 |
 | yoko | よこ | 横 | side | 3, 6 |
 | soto | そと | 外 | outside | 5 |
+| jōdan | じょうだん | 上段 | upper step; head level | 4, 6 |
+| chūdan | ちゅうだん | 中段 | middle step; body level | 4, 6 |
+| gedan | げだん | 下段 | lower step; low level | 4, 6 |
 | uchi | うち | 内 | inside (not 打ち, strike) | 5 |
 | te | て | 手 | hand | 2, 6 |
 | kote | こて | 小手 | small hand; wrist | 2, 6 |
@@ -96,6 +99,8 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | shōmen-uchi | しょうめんうち | 正面打ち | front-face strike | 4, 6 |
 | yokomen-uchi | よこめんうち | 横面打ち | side-face strike | 4, 6 |
 | tsuki | つき | 突き | thrust | 4 |
+| jōdan-tsuki | じょうだんつき | 上段突き | upper-level thrust (face) | 4 |
+| chūdan-tsuki | ちゅうだんつき | 中段突き | middle-level thrust (body) | 4 |
 | katate-dori | かたてどり | 片手取り | one-hand grab | 4, 6 |
 | ryōte-dori | りょうてどり | 両手取り | both-hands grab | 4, 6 |
 | morote-dori | もろてどり | 諸手取り | two hands on one arm | 4, 6 |
