@@ -44,6 +44,8 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | shite | して | 仕手 | doer (used instead of *nage* in some styles) | 5 |
 | aite | あいて | 相手 | partner | 2, 3 |
 | ukemi | うけみ | 受身 | receiving body; breakfall | 3, 6 |
+| mae ukemi | まえうけみ | 前受身 | forward roll | 3 |
+| ushiro ukemi | うしろうけみ | 後ろ受身 | backward roll | 3 |
 
 ## Numbers
 
@@ -66,8 +68,8 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 |--------|----------|-------|---------|---|
 | migi | みぎ | 右 | right | 3, 6 |
 | hidari | ひだり | 左 | left | 3, 6 |
-| mae | まえ | 前 | front | 3 |
-| ushiro | うしろ | 後ろ | behind | 3 |
+| mae | まえ | 前 | in front; before | 3, 6 |
+| ushiro | うしろ | 後ろ | behind | 3, 6 |
 | ue | うえ | 上 | up | 1, 6 |
 | shita | した | 下 | down | 2, 6 |
 | omote | おもて | 表 | front side | 3, 5, 6 |

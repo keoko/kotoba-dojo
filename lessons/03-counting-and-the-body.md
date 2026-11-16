@@ -37,6 +37,18 @@ Beyond ten, it's like building blocks: 11 = *jū-ichi* (ten-one), 20 = *ni-jū* 
 | **ura** | うら | back side (the "reverse") | *ikkyō ura* |
 | **yoko** | よこ | side | *yokomen-uchi* (side-of-head strike) |
 
+### Three kinds of "front"
+
+English says "front" for all of these. Japanese has a different word for each:
+
+| Word | Kanji | Means | Example |
+|------|-------|-------|---------|
+| **mae** | 前 | the space **in front of** someone or something; also **before** in time | *mae ukemi*, roll forward |
+| **omote** | 表 | the **front side** of a thing, its surface | *ikkyō omote*, entering on uke's front side |
+| **shōmen** | 正面 | the **face-on front**: the front of the dojo, or the front of the head | *shōmen ni rei*, *shōmen-uchi* |
+
+*Mae* and *ushiro* are a pair, like *omote* and *ura*: **mae ukemi** (forward roll) and **ushiro ukemi** (backward roll).
+
 ## 3. The body
 
 | Romaji | Hiragana | Meaning |
@@ -61,6 +73,8 @@ Beyond ten, it's like building blocks: 11 = *jū-ichi* (ten-one), 20 = *ni-jū* 
 - **sensei no waza** — the teacher's technique
 - **migi no te** — the right hand (lit. "the hand of the right")
 - **uke no kata** — uke's shoulder
+- **sensei no mae** — in front of the teacher (lit. "the teacher's front")
+- **keiko no mae** — before practice (*mae* also works for time)
 
 Order matters: the owner comes **first**. *Te no aite* would mean "the hand's partner" — nonsense.
 
@@ -99,7 +113,9 @@ Now read:
 |----------|--------|---------|
 | **みぎ** | migi | right — *ぎ* has the marks ゛, see lesson 4 |
 | **ひだり** | hidari | left |
+| **まえ** | mae | front, before |
 | **うしろ** | ushiro | behind |
+| **まえうけみ** | mae ukemi | forward roll |
 | **おもて** | omote | front |
 | **うら** | ura | back |
 | **むね** | mune | chest |

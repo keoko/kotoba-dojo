@@ -78,6 +78,8 @@ So:
 | **上** | ue / jō | up | 上段 *jōdan* — upper level |
 | **下** | shita / ge | down | 下段 *gedan* — lower level |
 | **中** | naka / chū | middle, inside | 中段 *chūdan* — middle level |
+| **前** | mae / zen | front, before | 午前 *gozen* — morning ("before noon") |
+| **後** | ushiro / go / kō | behind, after | 後ろ *ushiro*, 午後 *gogo* — afternoon ("after noon"), 後輩 *kōhai* |
 | **表** | omote | front side | |
 | **裏** | ura | back side | |
 
