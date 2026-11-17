@@ -38,6 +38,15 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | shodan | しょだん | 初段 | first dan | 8 |
 | kaiso | かいそ | 開祖 | founder | 8 |
 
+## Writing
+
+| Romaji | Hiragana | Kanji | Literal / meaning | L |
+|--------|----------|-------|-------------------|---|
+| hiragana | ひらがな | 平仮名 | plain kana; curvy phonetic script | 1 |
+| katakana | かたかな | 片仮名 | partial kana; angular phonetic script | 1 |
+| kanji | かんじ | 漢字 | Han (Chinese) characters | 1, 6 |
+| rōmaji | ろーまじ | ローマ字 | Roman letters; Japanese in the Latin alphabet | 1 |
+
 ## Roles
 
 | Romaji | Hiragana | Kanji | Literal / meaning | L |

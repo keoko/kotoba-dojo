@@ -57,6 +57,17 @@ Japanese mixes three scripts in the same sentence:
 
 Normal writing: **合気道の稽古をします** — "(I) do aikido practice". Kanji for the meaning, hiragana for the grammar.
 
+### And romaji?
+
+The words in this lesson, like *aikidō* or *shihō-nage*, are written in **romaji** (ローマ字, "Roman letters"): Japanese spelled with the Latin alphabet. It is **not** a fourth Japanese script. Japanese people use it for signs, passports and typing on a keyboard (`aikidou` → あいきどう → 合気道), but never to write Japanese in books or messages.
+
+Romaji is a useful bridge, but it can mislead you:
+- **Long vowels disappear**: *dojo* is really *dōjō*.
+- **There are several spelling systems**: these lessons use **Hepburn** (*shi*, *tsu*, *fu*). Others write *si*, *tu*, *hu* for the same sounds.
+- **It invites English pronunciation**: *uke* is *oo-keh*, not "yoo-kay".
+
+Use romaji to get started, then let it go. By lesson 5 you'll read hiragana instead.
+
 We start with **hiragana**: 46 basic characters, each one beat. Learn it and you can write *any* Japanese word.
 
 ## 5. Reading corner: あ い う え お
