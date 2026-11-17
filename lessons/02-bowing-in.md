@@ -99,13 +99,33 @@ Plus one special letter:
 
 | **ん** | n | The only consonant that stands alone. Always one beat. |
 
-Memory hooks:
-- **き** (ki) — a **key** shape. *Ki* — the key to aikido.
-- **こ** (ko) — two short strokes, like two **co**llarbones.
-- **て** (te) — like a hand reaching out — and *te* means **hand**!
-- **と** (to) — a **toe** with a splinter.
-- **し** (shi) — a fish hook: "**she** caught a fish".
-- **つ** (tsu) — a wave: **tsu**nami.
+### Memory hooks
+
+Read the hook while looking at the letter, then write it once. A silly picture you *see* sticks better than a clever one you only read, so if a hook doesn't work for you, make your own.
+
+| Kana | Sound | Hook |
+|------|-------|------|
+| **か** | ka | A **k** with an extra slash beside it: the cut of a ***ka**tana* |
+| **き** | ki | A **key**: *ki* is the key to aikido |
+| **く** | ku | A bent wrist, as in *nikyō*. Or a bird's beak calling "**ku**-ku" |
+| **け** | ke | Uke (the left stroke) standing beside a *jō* held crosswise. It's the last letter of う**け** |
+| **こ** | ko | Two short strokes: two **co**llarbones, or two **ko**i fish |
+| **さ** | sa | A **sa**murai bowing: き with one bar gone, as if the samurai lowered their sword |
+| **し** | shi | A fish hook: "**she** caught a fish" |
+| **す** | su | A *bokken* swing with a loop of follow-through: ***su**buri* |
+| **せ** | se | The first letter of **せ**んせい: a teacher's long arm pointing at the technique |
+| **そ** | so | A zig-zag path, like stepping in and turning: "**so**, that's how you move" |
+| **た** | ta | It looks like the letters **t** + **a** written together. Also the first letter of **た**たみ |
+| **ち** | chi | A person with a big belly: a strong centre, full of energy ("**chi**") |
+| **つ** | tsu | A wave: **tsu**nami |
+| **て** | te | A hand reaching out, and *te* means **hand** |
+| **と** | to | A **toe** with a splinter in it |
+
+**Look-alikes to watch:**
+- **き ki** has two bars and **さ sa** has one.
+- **さ sa** and **ち chi** are mirror images: さ's bottom curve opens to the right (like a **c**), and ち's opens to the left (like a **5**).
+- **し shi** hooks to the right, and **つ tsu** is a wave lying on its side.
+- In printed fonts, **き** and **さ** often have a separate bottom stroke. By hand it's usually joined. Both are correct.
 
 Now read — every character here is one you know:
 
