@@ -1,6 +1,6 @@
 # Lesson 8 — Concepts and a full class
 
-> **Goal:** read the key concepts of aikido in kanji, and follow a whole class in Japanese.
+> **Goal:** read the key concepts of aikido in kanji, learn the weapons and their etiquette, and follow a whole class in Japanese.
 
 ## 1. The 気 family
 
@@ -49,13 +49,105 @@ Notice **心** (*shin*, "heart/mind") in *zanshin* and *shoshin*, and **身** (*
 | **dōgi** | 道着 | training uniform (way + wear) |
 | **hakama** | 袴 | pleated trousers |
 | **obi** | 帯 | belt |
-| **bokken** | 木剣 | wooden sword (tree + sword) |
-| **jō** | 杖 | staff |
-| **tantō** | 短刀 | knife (short + blade) |
 
 Look: **先** appears in *sensei* (先生, born before) and *senpai* (先輩, colleague before). **初** appears in *shodan* and *shoshin*. Connections everywhere.
 
-## 4. Read a whole class
+### The dojo layout: kamiza and shimoza
+
+A traditional dojo is laid out with words you already know, 上 (upper) and 下 (lower):
+
+```
+              ┌─────────────────────────────┐
+              │  kamiza 上座 (upper seat)   │  ← shrine, scroll, photo of O-Sensei
+              │                             │
+  jōseki 上席 │           tatami            │ shimoseki 下席
+  (upper side)│                             │ (lower side)
+              │                             │
+              │  shimoza 下座 (lower seat)  │  ← students line up here, facing kamiza
+              └─────────────────────────────┘
+```
+
+| Word | Kanji | Literal | What it is |
+|------|-------|---------|------------|
+| **kamiza** | 上座 | upper seat | The front wall, the place of honour. Often has a small shrine (*kamidana* 神棚, "god shelf"), calligraphy, or a photo of the founder |
+| **shimoza** | 下座 | lower seat | The opposite wall, where students sit in line |
+| **jōseki** | 上席 | upper seat (side) | Side for teachers or seniors |
+| **shimoseki** | 下席 | lower seat (side) | The other side |
+
+Which wall is *jōseki* and which is *shimoseki*, and where exactly people sit, varies from dojo to dojo.
+
+Some dojos write *kamiza* as **神座**, "seat of the *kami*" (spirits). It's the same sound, but the kanji gives a more spiritual meaning: kanji again telling apart words that sound the same.
+
+**座** (*za*) means "seat, sitting". Now you can see it in three words you already know: 上座 *kamiza*, 正座 *seiza* ("correct sitting") and 座り技 *suwari-waza* ("sitting techniques"). The verb is 座る *suwaru*, "to sit", from lesson 7's *suwatte kudasai*.
+
+When the teacher says ***shōmen ni rei***, *shōmen* (正面, "the front") means the kamiza.
+
+## 4. Weapons: buki-waza 武器技
+
+**Buki** 武器 = 武 (martial, as in *budō*) + 器 (tool, vessel): "martial tools". You read ぶき in lesson 4. **Buki-waza** are weapon techniques.
+
+### The three weapons
+
+| Weapon | Hiragana | Kanji | Literal | What it is |
+|--------|----------|-------|---------|------------|
+| **bokken** | ぼっけん | 木剣 | tree + sword | Wooden sword. Also called **bokutō** 木刀 |
+| **jō** | じょう | 杖 | staff | Wooden staff, about 128 cm |
+| **tantō** | たんとう | 短刀 | short + blade | Wooden (training) knife |
+
+Kanji connections:
+- **木** (*ki / moku / boku*) means **tree, wood**. It sounds like 気 *ki* (energy), but it's a different word. Kanji to the rescue again.
+- **刀** (*tō*, or *katana* on its own) means **blade, sword**. It's in *tantō* 短刀, *bokutō* 木刀, and the real sword, *katana* 刀.
+- **剣** (*ken*) means **sword** too. It's in *bokken* 木剣 and in *kendō* 剣道, "the way of the sword". The *k* doubles here (*boku* + *ken* → *bokken*), the same sound change as *ikkyō* in lesson 5.
+
+### Weapon words
+
+| Romaji | Kanji | Literal | Meaning |
+|--------|-------|---------|---------|
+| **suburi** | 素振り | plain swing | Solo cutting or striking practice |
+| **kumitachi** | 組太刀 | paired great sword | Paired sword forms |
+| **kumijō** | 組杖 | paired staff | Paired staff forms |
+| **tachi-dori** | 太刀取り | sword taking | Disarming a sword attack |
+| **jō-dori** | 杖取り | staff taking | Disarming a staff attack |
+| **tantō-dori** | 短刀取り | knife taking | Disarming a knife attack |
+| **kamae** | 構え | posture | Ready stance (*jōdan*, *chūdan*, *gedan no kamae*, from lesson 4) |
+
+Every disarm is **-dori**, the same *toru* "to take" plus rendaku from lesson 4: *katate-dori* means "taking one hand", and *tachi-dori* means "taking the sword".
+
+### Parts of the sword
+
+| Part | Kanji | Meaning |
+|------|-------|---------|
+| **tsuka** | 柄 | handle |
+| **ha** | 刃 | cutting edge |
+| **mine** | 峰 | back of the blade |
+| **kissaki** | 切先 | tip ("cutting point") |
+
+A bokken has no real edge, but you treat it as if it had one, so you always know where the *ha* is.
+
+### Weapons and the kamiza
+
+Weapon etiquette **varies a lot between dojos and styles**, so always follow your teacher. These customs are common:
+
+- **The weapon rack** (*bukikake* 武器掛け, "weapon hanger") usually hangs on the kamiza wall or a side wall. Weapons are taken from it and returned to it with a small bow.
+- **A real sword on the kamiza.** Some dojos display a *katana* on a stand (*katanakake* 刀掛け) on the kamiza, as an object of respect and not for training.
+- **Bow with the weapon.** At the opening and closing bow, weapons are often held or placed beside you. Some dojos also bow to the weapon itself before and after use.
+- **When sitting in seiza**, the weapon lies on your **right** side, with the **edge (*ha*) facing you** and the **tip (*kissaki*) pointing back**, away from the kamiza and away from people:
+
+```
+               kamiza (front)
+                    ▲
+        ┌───────┐   ┃ ← tsuka (handle) by your right knee
+        │  you  │   ┃
+        │ seiza │   ┃   ha (edge) faces you
+        └───────┘   ┃
+                    ▼ ← kissaki (tip) points back
+```
+
+  On the right, the sword is awkward to draw quickly, so it's a sign that you mean no harm. The edge turned toward yourself says the same thing.
+
+- **Never step over a weapon**, and never point its tip at the kamiza or at another person when you're not training.
+
+## 5. Read a whole class
 
 Here's a class written as Japanese would write it. Try reading it before looking at the translation.
 
@@ -99,7 +191,7 @@ Here's a class written as Japanese would write it. Try reading it before looking
 New words: **みんな** *minna* = everyone; **じゅんびたいそう** *junbi taisō* = warm-up exercises ("preparation gymnastics"); **と** *to* = "and" (between nouns); **ゆっくり** *yukkuri* = slowly.
 </details>
 
-## 5. The same class in normal Japanese writing
+## 6. The same class in normal Japanese writing
 
 Real Japanese mixes kanji and kana. With what you know, you can now follow most of it:
 
@@ -110,7 +202,7 @@ Real Japanese mixes kanji and kana. With what you know, you can now follow most 
 > 先生：止め！ 交代してください。もう一度。
 > 皆：ありがとうございました！
 
-## 6. Where to go next
+## 7. Where to go next
 
 You've finished the course. You can now:
 - Read all of hiragana

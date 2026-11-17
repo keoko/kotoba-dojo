@@ -19,7 +19,11 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | hai | はい | — | yes | 2 |
 | shōmen ni rei | しょうめんにれい | 正面に礼 | bow to the front | 2 |
 | otagai ni rei | おたがいにれい | お互いに礼 | bow to each other | 2 |
-| kamiza | かみざ | 上座 | upper seat; front of the dojo | 8 |
+| kamiza | かみざ | 上座 / 神座 | upper seat / seat of the kami; front of the dojo | 2, 8 |
+| shimoza | しもざ | 下座 | lower seat; where students line up | 8 |
+| jōseki | じょうせき | 上席 | upper side | 8 |
+| shimoseki | しもせき | 下席 | lower side | 8 |
+| kamidana | かみだな | 神棚 | god shelf; small shrine | 8 |
 | budō | ぶどう | 武道 | martial way | 4, 6 |
 | tatami | たたみ | 畳 | mat | 3 |
 | dōgi | どうぎ | 道着 | training uniform | 4, 8 |
@@ -170,6 +174,23 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 
 | Romaji | Hiragana | Kanji | Meaning | L |
 |--------|----------|-------|---------|---|
+| buki | ぶき | 武器 | martial tools; weapons | 4, 8 |
+| buki-waza | ぶきわざ | 武器技 | weapon techniques | 8 |
 | bokken | ぼっけん | 木剣 | wooden sword | 4, 8 |
+| bokutō | ぼくとう | 木刀 | wooden sword | 8 |
 | jō | じょう | 杖 | staff | 8 |
 | tantō | たんとう | 短刀 | knife | 8 |
+| katana | かたな | 刀 | sword | 8 |
+| suburi | すぶり | 素振り | plain swing; solo practice | 8 |
+| kumitachi | くみたち | 組太刀 | paired sword forms | 8 |
+| kumijō | くみじょう | 組杖 | paired staff forms | 8 |
+| tachi-dori | たちどり | 太刀取り | sword taking | 8 |
+| jō-dori | じょうどり | 杖取り | staff taking | 8 |
+| tantō-dori | たんとうどり | 短刀取り | knife taking | 8 |
+| kamae | かまえ | 構え | posture; ready stance | 8 |
+| tsuka | つか | 柄 | handle | 8 |
+| ha | は | 刃 | cutting edge | 8 |
+| mine | みね | 峰 | back of the blade | 8 |
+| kissaki | きっさき | 切先 | tip | 8 |
+| bukikake | ぶきかけ | 武器掛け | weapon rack | 8 |
+| katanakake | かたなかけ | 刀掛け | sword stand | 8 |

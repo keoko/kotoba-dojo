@@ -63,7 +63,7 @@ Listen to the opening ceremony:
 
 | Command | Literal | Meaning |
 |---------|---------|---------|
-| **Shōmen ni rei** | front **to** bow | Bow to the front (the *kamiza*, the shrine/photo of O-Sensei) |
+| **Shōmen ni rei** | front **to** bow | Bow to the front (the *kamiza*, the shrine/photo of O-Sensei; see lesson 8) |
 | **Sensei ni rei** | teacher **to** bow | Bow to the teacher |
 | **Otagai ni rei** | each-other **to** bow | Bow to each other |
 

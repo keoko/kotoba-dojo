@@ -19,7 +19,7 @@ You train aikido and know dojo words **by sound**, but you can't read Japanese y
 | 5 | [Techniques](lessons/05-techniques.md) | *Ikkyō* to *gokyō*, the *-nage* family; irimi/tenkan, omote/ura, soto/uchi, uke/tori | Small ゃゅょっ, long vowels in writing — full hiragana reading |
 | 6 | [Your first kanji](lessons/06-first-kanji.md) | 合気道, 道場, 先生, number kanji | How kanji work, two kinds of readings |
 | 7 | [Commands on the mat](lessons/07-commands-on-the-mat.md) | *Hajime! Yame! Mō ichido!* | Verb forms: dictionary, -masu, -te + kudasai, -mashō |
-| 8 | [Concepts and a full class](lessons/08-concepts-and-a-full-class.md) | *Ki*, *zanshin*, *ma-ai*, *kokyū* | Reading kanji compounds; reading a whole class in Japanese |
+| 8 | [Concepts and a full class](lessons/08-concepts-and-a-full-class.md) | *Ki*, *zanshin*, *ma-ai*, *kokyū*; the dojo layout; *bokken*, *jō*, *tantō* | Reading kanji compounds; reading a whole class in Japanese |
 
 Reference:
 - [Hiragana chart](reference/hiragana-chart.md)
