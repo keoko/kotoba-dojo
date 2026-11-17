@@ -27,11 +27,37 @@ Notice: *ichi* + *kyō* → **ikkyō**, *roku* + *kyō* → **rokkyō**. The fin
 | **tenchi-nage** | ten (heaven) + chi (earth) + nage | heaven-and-earth throw |
 | **koshi-nage** | koshi (hips) + nage | hip throw |
 | **kokyū-nage** | kokyū (breath) + nage | breath throw |
-| **jūji-nage** / **jūjigarami** | jūji (cross, lit. "the character 十") + nage | cross(ed-arms) throw |
+| **jūji-nage** | jūji (cross, lit. "the character 十") + nage | cross throw |
+| **jūji-garami** | jūji (cross) + **g**arami (entangling) | cross entanglement: another name for *jūji-nage* |
+| **ude-kime-nage** | ude (arm) + kime (lock) + nage | arm-lock throw |
 | **sumi-otoshi** | sumi (corner) + otoshi (drop) | corner drop |
 | **kote-gaeshi** | kote (wrist) + kaeshi (turn over) | wrist turn-out |
 
-Fun fact: *jūji* is literally "the character for ten" — because 十 looks like a cross. And *tenchi-nage* is a whole worldview in two characters: one hand to heaven, one to earth.
+Fun fact: *jūji* is literally "the character for ten" — because 十 looks like a cross. Uke's arms end up crossed like 十 and locked against each other.
+
+**Garami** comes from the verb 絡む *karamu*, "to entangle, to wrap around". The stem *karami* becomes a noun (lesson 4), and in a compound it voices to ***g**arami*: rendaku again, like *kote-**g**aeshi*. So 十字絡み *jūji-garami* = "cross entanglement", which describes the lock. *Jūji-nage* ("cross throw") names the same technique by its result.
+
+And *tenchi-nage* is a whole worldview in two characters: one hand to heaven, one to earth.
+
+**Ude-kime-nage** 腕極め投げ is built from three words: *ude* 腕 (arm) + *kime* 極め (lock) + *nage* 投げ (throw). *Kime* is the stem of 極める *kimeru*, "to apply a lock" (some dojos write 決め, "to settle"). It's the same *kime* as in *hiji-kime-osae*, the elbow-lock pin. Heard quickly, the name can sound like "udeki menage". Splitting a name into the words you know (*ude* · *kime* · *nage*) is the best way to catch where the word breaks really are.
+
+### Free practice: jiyū-waza and randori
+
+| Term | Kanji | Literal | What it is |
+|------|-------|---------|------------|
+| **jiyū-waza** | 自由技 | free technique | Uke attacks, often with a set attack, and nage answers with **any** technique |
+| **randori** | 乱取り | chaotic taking | Free practice against several attackers (some styles use the word for other kinds of free practice) |
+| **ninin-gake** | 二人掛け | two-person attack | Two attackers |
+| **sannin-gake** | 三人掛け | three-person attack | Three attackers |
+| **taninzu-gake** | 多人数掛け | many-people attack | Many attackers |
+
+**自由** *jiyū* is the everyday word for **freedom**: 自 (self) + 由 (reason, cause), "following your own reason". On a Japanese train, a 自由席 *jiyū-seki* is an unreserved, sit-where-you-like seat.
+
+Two sound changes you already know:
+- *ran* + *tori* → ran-**d**ori, and *kakeru* (to attack, to hang on) → -**g**ake: rendaku, as in lesson 4.
+- *Waza* doesn't change, because rendaku never touches *w*.
+
+**Careful in hiragana:** 自由 is **じゆう** *ji-yu-u*, with a full-size ゆ (3 beats). Ten is **じゅう** *jū*, with a small ゅ (2 beats). One letter's size is the difference between "free technique" and "ten technique".
 
 ## 3. Pairs that shape every technique
 
@@ -64,6 +90,8 @@ The words are everyday Japanese: the *ura* of a coin is its back, and 裏口 *ur
 
 You hear the pair in **soto-kaiten-nage** 外回転投げ (outside rotation throw) and **uchi-kaiten-nage** 内回転投げ (inside rotation throw). Also in the dojo: an **uchi-deshi** 内弟子 is a live-in student, literally an "inside disciple".
 
+*Uchi-kaiten* is also an **entry** into other techniques, not only a throw. In **uchi-kaiten-sankyō** 内回転三教, nage turns in under uke's arm (*uchi-kaiten*) and comes out applying *sankyō*. The name is the sequence again, like *kata-dori men-uchi* in lesson 4: first the movement, then the technique.
+
 Watch out: this **uchi** 内 (inside) sounds exactly like the **uchi** 打ち (strike) in *shōmen-uchi*. They're different words, and only the kanji tells them apart, just like 心 and 身 (both *shin*) in lesson 8. In speech, context does the job: *uchi-kaiten-nage* is a throw, so the *uchi* there can't be a strike.
 
 ### Uke 受け / Tori 取り — who receives, who takes
@@ -91,6 +119,7 @@ All three mean the same role, so use whichever your dojo uses. (*Shite* is built
 | **おもて** / **うら** | omote / ura |
 | **そと** / **うち** | soto / uchi |
 | **そとかいてんなげ** / **うちかいてんなげ** | soto-kaiten-nage / uchi-kaiten-nage |
+| **うちかいてんさんきょう** | uchi-kaiten-sankyō |
 | **うけ** / **とり** / **なげ** / **して** | uke / tori / nage / shite |
 
 ## 4. Reading corner: small letters
@@ -168,6 +197,10 @@ Now beat-counting is easy: **each full-size letter is one beat**.
 | **どうじょう** | dōjō |
 | **あいきどう** | aikidō |
 | **じゅうじなげ** | jūji-nage |
+| **じゅうじがらみ** | jūji-garami |
+| **じゆうわざ** | jiyū-waza |
+| **うできめなげ** | ude-kime-nage |
+| **らんどり** | randori |
 | **りょうてどり** | ryōte-dori |
 
 ## Exercises
@@ -181,6 +214,7 @@ Now beat-counting is easy: **each full-size letter is one beat**.
 7. Uke attacks first, so why is uke called "the receiver"?
 8. What are three names for the partner who does the technique?
 9. In *uchi-kaiten-nage*, is *uchi* 内 or 打ち? How do you know?
+10. Read and count the beats: **じゆうわざ** and **じゅうじなげ**. Which one has a small ゅ?
 
 ## On the mat
 
@@ -200,4 +234,5 @@ Before each technique, picture its name written in hiragana. *Shihō-nage* → �
 7. Because uke *receives* the technique (受ける *ukeru*, to receive).
 8. *tori* (取り, taker), *nage* (投げ, thrower), *shite* (仕手, doer).
 9. 内, "inside": nage passes inside, under uke's arm. It's a throw, not a strike, so it can't be 打ち.
+10. じゆうわざ *jiyū-waza* = じ・ゆ・う・わ・ざ, 5 beats. じゅうじなげ *jūji-nage* = じゅ・う・じ・な・げ, 5 beats. *Jūji-nage* has the small ゅ.
 </details>

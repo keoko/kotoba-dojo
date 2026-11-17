@@ -123,6 +123,7 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | ryōte-dori | りょうてどり | 両手取り | both-hands grab | 4, 6 |
 | morote-dori | もろてどり | 諸手取り | two hands on one arm | 4, 6 |
 | kata-dori | かたどり | 肩取り | shoulder grab | 4, 6 |
+| kata-dori men-uchi | かたどりめんうち | 肩取り面打ち | shoulder grab, then head strike | 4 |
 | mune-dori | むねどり | 胸取り | chest grab | 4 |
 | ushiro ryōtekubi-dori | うしろりょうてくびどり | 後ろ両手首取り | both wrists from behind | 4 |
 
@@ -140,10 +141,14 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | kaiten-nage | かいてんなげ | 回転投げ | rotation throw | 5, 6 |
 | soto-kaiten-nage | そとかいてんなげ | 外回転投げ | outside rotation throw | 5 |
 | uchi-kaiten-nage | うちかいてんなげ | 内回転投げ | inside rotation throw | 5 |
+| uchi-kaiten-sankyō | うちかいてんさんきょう | 内回転三教 | inside turn into third teaching | 5 |
+| ude-kime-nage | うできめなげ | 腕極め投げ | arm-lock throw | 5 |
+| hiji-kime-osae | ひじきめおさえ | 肘極め押さえ | elbow-lock pin (= rokkyō) | 5 |
 | tenchi-nage | てんちなげ | 天地投げ | heaven-earth throw | 5, 6 |
 | koshi-nage | こしなげ | 腰投げ | hip throw | 5 |
 | kokyū-nage | こきゅうなげ | 呼吸投げ | breath throw | 5 |
 | jūji-nage | じゅうじなげ | 十字投げ | cross throw | 5, 6 |
+| jūji-garami | じゅうじがらみ | 十字絡み | cross entanglement (= jūji-nage) | 5 |
 | sumi-otoshi | すみおとし | 隅落とし | corner drop | 5 |
 | kote-gaeshi | こてがえし | 小手返し | wrist turn-out | 4, 5 |
 | irimi | いりみ | 入身 | entering body; entering | 3, 5, 6 |
@@ -151,6 +156,11 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | suwari-waza | すわりわざ | 座り技 | sitting techniques | 4 |
 | hanmi handachi | はんみはんだち | 半身半立ち | half-body half-standing | 4 |
 | waza | わざ | 技 | technique | 4, 6 |
+| jiyū-waza | じゆうわざ | 自由技 | free technique | 5 |
+| randori | らんどり | 乱取り | chaotic taking; free practice vs several attackers | 5 |
+| ninin-gake | ににんがけ | 二人掛け | two-person attack | 5 |
+| sannin-gake | さんにんがけ | 三人掛け | three-person attack | 5 |
+| taninzu-gake | たにんずがけ | 多人数掛け | many-people attack | 5 |
 
 ## Commands
 

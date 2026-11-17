@@ -40,6 +40,18 @@ Note **tekubi**: *te* (hand) + *kubi* (neck) = **wrist**. The wrist is "the hand
 
 Also note **katate** (one hand) vs **kata** (shoulder) — different words that start the same.
 
+### Combined attacks: kata-dori men-uchi
+
+Attack names can be **stacked**, in the order things happen:
+
+| Attack | Kanji | Hiragana | Literal |
+|--------|-------|----------|---------|
+| **kata-dori men-uchi** | 肩取り面打ち | かたどりめんうち | shoulder grab, face strike |
+
+Uke grabs your shoulder with one hand, then strikes at your head with the other (usually like *shōmen-uchi*). The name is the sequence: first **kata-dori** (肩 shoulder + 取り grab), then **men-uchi** (面 face/head + 打ち strike).
+
+**Men** alone means face or head (lesson 3). *Shōmen-uchi* and *yokomen-uchi* just add *where* on the head: 正 straight (the front) or 横 side. *Men-uchi* with nothing in front is simply "head strike".
+
 ## 3. Three levels: jōdan, chūdan, gedan
 
 Attacks and stances are often named by the **height** they target. Each is a direction + **dan** 段 ("step, level"):
@@ -123,6 +135,7 @@ More words:
 4. Read: **ごはん**, **かぜ**, **でんわ**, **ぶき**, **じかん**, **ぱん**.
 5. Write in hiragana: *nage*, *waza*, *mune-dori*, *budō*, *kata-dori*.
 6. Where does a *jōdan-tsuki* go? A *chūdan-tsuki*? What does *dan* 段 mean, and where else do you hear it in the dojo?
+7. Break down *kata-dori men-uchi*: what happens first, and what second? Write it in hiragana.
 
 ## On the mat
 
@@ -139,4 +152,5 @@ When your teacher names the attack, say the literal meaning to yourself: "one-ha
 4. *gohan* (rice/meal), *kaze* (wind), *denwa* (telephone), *buki* (weapon), *jikan* (time), *pan* (bread)
 5. なげ, わざ, むねどり, ぶどう, かたどり
 6. Jōdan-tsuki goes to the face; chūdan-tsuki to the body. *Dan* 段 means "step, level", the same word as black-belt ranks (*shodan*, *nidan*…).
+7. First *kata-dori* (shoulder grab), then *men-uchi* (head strike). かたどりめんうち.
 </details>
