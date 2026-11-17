@@ -137,6 +137,16 @@ Long vowels are written by adding a vowel:
 
 So the macrons in *dōjō* are not decoration — they're real letters: **ど・う・じょ・う**.
 
+### Counting beats in hiragana
+
+Now beat-counting is easy: **each full-size letter is one beat**.
+- Small **ゃ ゅ ょ** don't count: they merge with the letter before them.
+- Small **っ** *does* count: it's the pause.
+
+- どうじょう: ど・う・じょ・う = **4 beats**
+- いっきょう: い・っ・きょ・う = **4 beats**
+- てんかん: て・ん・か・ん = **4 beats**
+
 ## 5. Read every technique
 
 | Hiragana | Romaji |

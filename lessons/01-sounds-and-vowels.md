@@ -36,6 +36,20 @@ This is not pedantry: length changes meaning. *Ojisan* = uncle, *ojiisan* = gran
 
 > Japanese counts **beats** (called *mora*), not syllables. Each beat takes the same time — like a metronome during *suburi*.
 
+### Beats are not syllables
+
+A **syllable** is a unit of *sound* (English counts these). A **beat** is a unit of *time*: every beat lasts the same. They often match, but a **long vowel**, an ***n***, or a **double consonant** adds a beat without adding a syllable:
+
+| Word | Syllables | Beats | Why |
+|------|-----------|-------|-----|
+| *uke* | u-ke (2) | u-ke (2) | same |
+| *tenkan* | ten-kan (2) | te-n-ka-n (4) | each *n* is a beat |
+| *dōjō* | dō-jō (2) | do-o-jo-o (4) | each long vowel is two beats |
+| *ikkyō* | ik-kyō (2) | i-k-kyo-o (4) | the double *k* is a beat, and so is the long *ō* |
+| *sensei* | sen-sei (2) | se-n-se-i (4) | the *n* and the long *e* |
+
+Say *dōjō* in two beats, like English "doe-joe", and you've cut the long vowels. This is also why a haiku's 5-7-5 counts beats, not syllables.
+
 ## 3. Consonant notes
 
 - **r** is a quick tap of the tongue — between *r*, *l* and *d*. *Rei* sounds a bit like "day" with a soft flick.
