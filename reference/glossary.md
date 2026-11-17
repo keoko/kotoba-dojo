@@ -12,6 +12,9 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | rei | れい | 礼 | courtesy; bow | 2 |
 | seiza | せいざ | 正座 | correct sitting; formal kneeling | 2, 6 |
 | mokusō | もくそう | 黙想 | silent thought; meditation | 2 |
+| kiza | きざ | 跪座 | kneeling sitting; toes curled under | 2 |
+| anza / agura | あんざ / あぐら | 安座 / 胡座 | easy sitting; cross-legged | 2 |
+| zazen | ざぜん | 坐禅 | sitting Zen; Zen meditation (not seiza) | 2 |
 | keiko | けいこ | 稽古 | thinking about the old; practice | 2, 6 |
 | onegai shimasu | おねがいします | お願いします | I make a request; please | 2 |
 | arigatō gozaimashita | ありがとうございました | — | thank you (for what was done) | 2 |

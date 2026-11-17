@@ -38,6 +38,18 @@ Why past? Because you are thanking for something **finished** — the practice t
 | **shitsurei shimasu** | しつれいします | "Excuse me" — entering/leaving the mat ("I commit a discourtesy") |
 | **sensei** | せんせい | Teacher ("one born before") |
 
+### Ways of sitting
+
+| Romaji | Hiragana | Kanji | Literal | What it is |
+|--------|----------|-------|---------|------------|
+| **seiza** | せいざ | 正座 | correct sitting | Formal kneeling, sitting on your heels, back straight |
+| **kiza** | きざ | 跪座 | kneeling sitting | Kneeling with toes curled under, ready to move: for *shikkō* (knee walking) and before standing up |
+| **anza** / **agura** | あんざ / あぐら | 安座 / 胡座 | easy sitting | Relaxed cross-legged sitting. Often allowed if seiza hurts your knees |
+
+**Seiza is not zazen.** *Zazen* (坐禅, "sitting Zen") is a **practice**: seated Zen meditation, usually cross-legged on a cushion. *Seiza* is a **posture**. You can do zazen in seiza, but the words mean different things. The dojo's **mokusō** (黙想, "silent thought") is the short meditation done in seiza at the start and end of class. It's closer to zazen, but brief and not formal Zen practice.
+
+Notice **座** (*za*, "sit, seat") in *seiza*, *kiza* and *anza*. You'll meet it again in lesson 8.
+
 ## 2. Grammar: polite verbs, -masu and -mashita
 
 Japanese verbs don't change for *I / you / he*. They change for **time** and **politeness**.
