@@ -57,6 +57,7 @@ Say *dōjō* in two beats, like English "doe-joe", and you've cut the long vowel
 - **fu** is softer than English f — blow gently, lips barely touching: *fu*.
 - **Double consonants** (*kk*, *pp*, *tt*) mean a tiny pause, like a held breath before a strike: *i-k-kyō*, *ka-t-te*.
 - **n** on its own is a full beat: *te-n-ka-n* is 4 beats.
+- **n before p, b or m sounds like m**: your lips are already closing for the next sound. That's why you see both *senpai* and *sempai*: it's the same word, written ん in Japanese.
 - **u and i often go silent** between voiceless consonants: *shimasu* sounds like "shimas", *desu* like "des".
 
 ## 4. Three writing systems

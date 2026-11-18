@@ -49,6 +49,23 @@ English says "front" for all of these. Japanese has a different word for each:
 
 *Mae* and *ushiro* are a pair, like *omote* and *ura*: **mae ukemi** (forward roll) and **ushiro ukemi** (backward roll).
 
+### Hanmi: the stance, and how two stances meet
+
+**Hanmi** 半身 means "half body": you stand turned at an angle, one foot forward, so only half your body faces your partner. **Migi hanmi** has the right foot forward, **hidari hanmi** the left.
+
+What matters is how *your* stance meets your partner's:
+
+| Term | Kanji | Literal | What it is |
+|------|-------|---------|------------|
+| **ai-hanmi** | 相半身 | mutual half body | **Same** stance: both right foot forward, or both left. You stand like mirror images across a diagonal |
+| **gyaku-hanmi** | 逆半身 | reverse half body | **Opposite** stances: one right, one left |
+
+- **相** *ai* means "mutual, together". It's the same 相 as in 相手 *aite*, "partner". It is **not** the 合 *ai* of 合気道: same sound, different kanji.
+- **逆** *gyaku* means "reverse, opposite".
+- In *ai-hanmi*, a one-hand grab is cross-handed: right hand takes right wrist. Many dojos call this ***ai-hanmi katate-dori*** or ***kōsa-dori*** 交差取り ("crossing grab"). In *gyaku-hanmi* it's the ordinary *katate-dori*: right hand takes left wrist.
+
+In hiragana: あいはんみ and ぎゃくはんみ. The ゃ in ぎゃく is a small letter, which lesson 5 explains.
+
 ## 3. The body
 
 | Romaji | Hiragana | Meaning |

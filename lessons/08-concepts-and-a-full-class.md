@@ -43,12 +43,17 @@ Notice **心** (*shin*, "heart/mind") in *zanshin* and *shoshin*, and **身** (*
 | **kyū** | 級 | grade (below black belt; counts *down*: 6th kyū → 1st kyū) |
 | **dan** | 段 | step (black belt; counts *up*: 1st dan → …) |
 | **shodan** | 初段 | first dan (初 = first, beginning) |
-| **sempai / senpai** | 先輩 | senior student (先 = before, as in 先生) |
+| **senpai / sempai** | 先輩 | senior student (先 = before, as in 先生). Same word, two spellings: ん before *p* sounds like *m* (lesson 1) |
 | **kōhai** | 後輩 | junior student (後 = after) |
 | **shihan** | 師範 | master instructor |
 | **dōgi** | 道着 | training uniform (way + wear) |
+| **keiko-gi** | 稽古着 | practice uniform (practice + wear); means the same as *dōgi* |
 | **hakama** | 袴 | pleated trousers |
-| **obi** | 帯 | belt |
+| **obi** | 帯 | belt; also the sash of a kimono |
+| **shiro-obi** | 白帯 | white belt |
+| **kuro-obi** | 黒帯 | black belt |
+
+The **gi** in *dōgi* and *keiko-gi* is 着 *ki*, from 着る *kiru*, "to wear", and it voices to *gi* in a compound (rendaku, lesson 4). So *gi* just means "what you wear". **Obi** stays *obi* in *shiro-obi* and *kuro-obi*: rendaku never touches vowels.
 
 Look: **先** appears in *sensei* (先生, born before) and *senpai* (先輩, colleague before). **初** appears in *shodan* and *shoshin*. Connections everywhere.
 

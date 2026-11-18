@@ -52,6 +52,17 @@ Uke grabs your shoulder with one hand, then strikes at your head with the other 
 
 **Men** alone means face or head (lesson 3). *Shōmen-uchi* and *yokomen-uchi* just add *where* on the head: 正 straight (the front) or 横 side. *Men-uchi* with nothing in front is simply "head strike".
 
+### Atemi: nage's strikes
+
+Attacks aren't only uke's. **Atemi** 当身 is a strike *by nage*, usually to unbalance uke, open a line or take their attention, more than to hurt.
+
+| Part | Kanji | Meaning |
+|------|-------|---------|
+| **ate** | 当 | hit, touch the target (from 当てる *ateru*, "to hit, to apply") |
+| **mi** | 身 | body (as in *irimi*, *ukemi*) |
+
+Literally "hitting the body". The verb pattern is the same as before: 当てる *ateru* → stem *ate*, and the noun is built from it.
+
 ## 3. Three levels: jōdan, chūdan, gedan
 
 Attacks and stances are often named by the **height** they target. Each is a direction + **dan** 段 ("step, level"):

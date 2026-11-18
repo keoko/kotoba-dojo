@@ -30,9 +30,12 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | budō | ぶどう | 武道 | martial way | 4, 6 |
 | tatami | たたみ | 畳 | mat | 3 |
 | dōgi | どうぎ | 道着 | training uniform | 4, 8 |
+| keiko-gi | けいこぎ | 稽古着 | practice uniform | 8 |
 | hakama | はかま | 袴 | pleated trousers | 3, 8 |
 | obi | おび | 帯 | belt | 8 |
-| senpai | せんぱい | 先輩 | senior student | 8 |
+| shiro-obi | しろおび | 白帯 | white belt | 8 |
+| kuro-obi | くろおび | 黒帯 | black belt | 8 |
+| senpai / sempai | せんぱい | 先輩 | senior student | 8 |
 | uchi-deshi | うちでし | 内弟子 | inside disciple; live-in student | 5 |
 | kōhai | こうはい | 後輩 | junior student | 8 |
 | shihan | しはん | 師範 | master instructor | 8 |
@@ -123,6 +126,8 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | ryōte-dori | りょうてどり | 両手取り | both-hands grab | 4, 6 |
 | morote-dori | もろてどり | 諸手取り | two hands on one arm | 4, 6 |
 | kata-dori | かたどり | 肩取り | shoulder grab | 4, 6 |
+| kōsa-dori | こうさどり | 交差取り | crossing grab (ai-hanmi katate-dori) | 3 |
+| atemi | あてみ | 当身 | hitting the body; nage's strike | 4 |
 | kata-dori men-uchi | かたどりめんうち | 肩取り面打ち | shoulder grab, then head strike | 4 |
 | mune-dori | むねどり | 胸取り | chest grab | 4 |
 | ushiro ryōtekubi-dori | うしろりょうてくびどり | 後ろ両手首取り | both wrists from behind | 4 |
@@ -153,7 +158,8 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | kote-gaeshi | こてがえし | 小手返し | wrist turn-out | 4, 5 |
 | irimi | いりみ | 入身 | entering body; entering | 3, 5, 6 |
 | tenkan | てんかん | 転換 | turn-change; turning | 2, 5 |
-| suwari-waza | すわりわざ | 座り技 | sitting techniques | 4 |
+| tachi-waza | たちわざ | 立ち技 | standing techniques | 5 |
+| suwari-waza | すわりわざ | 座り技 | sitting techniques | 4, 5 |
 | hanmi handachi | はんみはんだち | 半身半立ち | half-body half-standing | 4 |
 | waza | わざ | 技 | technique | 4, 6 |
 | jiyū-waza | じゆうわざ | 自由技 | free technique | 5 |
@@ -188,6 +194,10 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | kokyū-hō | こきゅうほう | 呼吸法 | breath method | 8 |
 | musubi | むすび | 結び | tying; connection | 8 |
 | hanmi | はんみ | 半身 | half body; stance | 3, 8 |
+| ai-hanmi | あいはんみ | 相半身 | mutual stance; same foot forward | 3 |
+| gyaku-hanmi | ぎゃくはんみ | 逆半身 | reverse stance; opposite foot forward | 3 |
+| tai-sabaki | たいさばき | 体捌き | body handling; body movement | 5 |
+| tai no henkō | たいのへんこう | 体の変更 | change of body | 5 |
 | shikkō | しっこう | 膝行 | knee-going; knee walking | 8 |
 | shoshin | しょしん | 初心 | beginner's mind | 8 |
 | takemusu aiki | たけむすあいき | 武産合気 | martial-birth aiki | 8 |

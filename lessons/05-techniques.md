@@ -57,6 +57,18 @@ Two sound changes you already know:
 - *ran* + *tori* → ran-**d**ori, and *kakeru* (to attack, to hang on) → -**g**ake: rendaku, as in lesson 4.
 - *Waza* doesn't change, because rendaku never touches *w*.
 
+### Three positions: tachi-waza, suwari-waza, hanmi handachi
+
+| Term | Kanji | Literal | Who is standing? |
+|------|-------|---------|------------------|
+| **tachi-waza** | 立ち技 | standing techniques | Both |
+| **suwari-waza** | 座り技 | sitting techniques | Neither: both kneel |
+| **hanmi handachi** | 半身半立ち | half body, half standing | Uke stands, nage kneels |
+
+*Tachi* is the stem of 立つ *tatsu*, "to stand" (lesson 7's *tatte kudasai*). *Suwari* is the stem of 座る *suwaru*, "to sit". In *han-dachi*, *tachi* voices to *dachi*: rendaku again.
+
+Don't confuse 立ち *tachi* (standing) with 太刀 *tachi* (sword) from lesson 8. They sound the same but are written differently.
+
 **Careful in hiragana:** 自由 is **じゆう** *ji-yu-u*, with a full-size ゆ (3 beats). Ten is **じゅう** *jū*, with a small ゅ (2 beats). One letter's size is the difference between "free technique" and "ten technique".
 
 ## 3. Pairs that shape every technique
@@ -71,6 +83,8 @@ Most techniques are named by an attack, a technique and a **variation**: *katate
 | **tenkan** | 転 turn + 換 change | "turn and change" | Pivot on the front foot, turning to face the same way uke faces |
 
 Many dojos practise them together as the footwork drill **irimi-tenkan**. And you know 転 already: it's the *ten* in **回転投げ** *kaiten-nage*, "rotation throw".
+
+Irimi and tenkan are the two basic kinds of **tai-sabaki** 体捌き, "body handling": *tai* 体 (body) + *sabaki* 捌き (handling, from 捌く *sabaku*, "to handle, to deal with"). Tai-sabaki is any way of moving your whole body to get off the line of attack and into a good position. Another drill you'll hear is **tai no henkō** 体の変更, "change of body": a turn on the spot, and the の is the one from lesson 3.
 
 ### Omote 表 / Ura 裏 — front and back
 
