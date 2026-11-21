@@ -82,6 +82,8 @@ In hiragana: あいはんみ and ぎゃくはんみ. The ゃ in ぎゃく is a s
 | **ashi** | あし | foot / leg |
 | **hiza** | ひざ | knee |
 
+**Chūsoku** 中足 (ちゅうそく) means "middle foot": the **ball of the foot**, just behind the toes. In *kiza* (lesson 2) you sit back on it, and it's the striking surface for a front kick (*mae-geri*). Notice that 足 is read *soku* here, not *ashi*: words built from two kanji usually take the Chinese-origin reading (lesson 6). The small ゅ in ちゅう is explained in lesson 5.
+
 ## 4. Grammar: **の** (*no*) — "'s / of"
 
 **の** links two nouns: **A の B** = "A's B" / "the B of A".

@@ -111,6 +111,7 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | hara | はら | 腹 | belly, centre | 3 |
 | koshi | こし | 腰 | hips | 5 |
 | ashi | あし | 足 | foot, leg | 3 |
+| chūsoku | ちゅうそく | 中足 | middle foot; ball of the foot | 3 |
 | hiza | ひざ | 膝 | knee | 3 |
 
 ## Attacks
