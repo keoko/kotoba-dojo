@@ -133,8 +133,8 @@ More words:
 | **むねどり** | mune-dori | chest grab |
 | **よこめんうち** | yokomen-uchi | side strike |
 | **こてがえし** | kote-gaeshi | wrist turn-out |
-| **ぶどう** | budō | martial way |
-| **どうぎ** | dōgi | training uniform |
+| **ぶどう** | budō | martial way — **おう** is a long *ō* (lesson 5) |
+| **どうぎ** | dōgi | training uniform — long *ō* again |
 | **すわりわざ** | suwari-waza | kneeling techniques |
 | **ぼっけん** | bokken | wooden sword (small っ — next lesson!) |
 

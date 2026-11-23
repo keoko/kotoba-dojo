@@ -131,7 +131,7 @@ Now read:
 | Hiragana | Romaji | Meaning |
 |----------|--------|---------|
 | **みぎ** | migi | right — *ぎ* has the marks ゛, see lesson 4 |
-| **ひだり** | hidari | left |
+| **ひだり** | hidari | left — *だ* has the marks ゛ too |
 | **まえ** | mae | front, before |
 | **うしろ** | ushiro | behind |
 | **まえうけみ** | mae ukemi | forward roll |

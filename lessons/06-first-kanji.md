@@ -1,6 +1,6 @@
 # Lesson 6 — Your first kanji
 
-> **Goal:** understand how kanji work and learn ~30 kanji you already "know" from the dojo.
+> **Goal:** understand how kanji work and learn your first ~30 kanji, ones you already "know" from the dojo (lesson 8 brings you to ~40).
 
 ## 1. What a kanji is
 

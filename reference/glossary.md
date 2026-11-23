@@ -21,6 +21,7 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | shitsurei shimasu | しつれいします | 失礼します | excuse me | 2 |
 | hai | はい | — | yes | 2 |
 | shōmen ni rei | しょうめんにれい | 正面に礼 | bow to the front | 2 |
+| sensei ni rei | せんせいにれい | 先生に礼 | bow to the teacher | 2 |
 | otagai ni rei | おたがいにれい | お互いに礼 | bow to each other | 2 |
 | kamiza | かみざ | 上座 / 神座 | upper seat / seat of the kami; front of the dojo | 2, 8 |
 | shimoza | しもざ | 下座 | lower seat; where students line up | 8 |
@@ -142,6 +143,7 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | sankyō | さんきょう | 三教 | third teaching | 5, 6 |
 | yonkyō | よんきょう | 四教 | fourth teaching | 5, 6 |
 | gokyō | ごきょう | 五教 | fifth teaching | 5, 6 |
+| rokkyō | ろっきょう | 六教 | sixth teaching (= hiji-kime-osae) | 5 |
 | shihō-nage | しほうなげ | 四方投げ | four-direction throw | 5, 6 |
 | irimi-nage | いりみなげ | 入身投げ | entering-body throw | 5, 6 |
 | kaiten-nage | かいてんなげ | 回転投げ | rotation throw | 5, 6 |
@@ -162,7 +164,7 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | tenkan | てんかん | 転換 | turn-change; turning | 2, 5 |
 | tachi-waza | たちわざ | 立ち技 | standing techniques | 5 |
 | suwari-waza | すわりわざ | 座り技 | sitting techniques | 4, 5 |
-| hanmi handachi | はんみはんだち | 半身半立ち | half-body half-standing | 4 |
+| hanmi handachi | はんみはんだち | 半身半立ち | half-body half-standing | 4, 5 |
 | waza | わざ | 技 | technique | 4, 6 |
 | jiyū-waza | じゆうわざ | 自由技 | free technique | 5 |
 | randori | らんどり | 乱取り | chaotic taking; free practice vs several attackers | 5 |
@@ -201,8 +203,9 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | gyaku-hanmi | ぎゃくはんみ | 逆半身 | reverse stance; opposite foot forward | 3 |
 | tai-sabaki | たいさばき | 体捌き | body handling; body movement | 5 |
 | tai no henkō | たいのへんこう | 体の変更 | change of body | 5 |
-| shikkō | しっこう | 膝行 | knee-going; knee walking | 8 |
+| shikkō | しっこう | 膝行 | knee-going; knee walking | 2, 8 |
 | shoshin | しょしん | 初心 | beginner's mind | 8 |
+| misogi | みそぎ | 禊 | purification; purification practice | 8 |
 | takemusu aiki | たけむすあいき | 武産合気 | martial-birth aiki | 8 |
 
 ## Weapons

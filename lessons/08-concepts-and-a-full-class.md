@@ -35,7 +35,7 @@ Same character, everyday words. This is how kanji pay you back: learn one, read 
 | **misogi** | 禊 | purification | Purification practice |
 | **takemusu aiki** | 武産合気 | martial + birth + aiki | Spontaneous, creative aikido |
 
-Notice **心** (*shin*, "heart/mind") in *zanshin* and *shoshin*, and **身** (*mi/shin*, "body") in *hanmi*. They sound the same in compounds — *shin* — but the kanji tells you whether it's mind or body. This is why kanji matter in Japanese: many words share sounds.
+Notice **心** (*shin*, "heart/mind") in *zanshin* and *shoshin*. Now **身** ("body"): in *hanmi* it's read *mi*, but in many compounds it's *shin* too, as in 全身 *zenshin*, "whole body". So 心 and 身 can sound the same, and only the kanji tells you whether it's mind or body. This is why kanji matter in Japanese: many words share sounds.
 
 **Ki-musubi** 気結び (きむすび) joins two words you already know: *ki* 気 (energy, intent) + *musubi* 結び (tying, from the verb 結ぶ *musubu*, "to tie"). You tie your *ki* to your partner's, blending with their attack from the moment of contact, or even before, instead of colliding with it. Said quickly it can sound like "kimosubi". Splitting it into *ki* · *musubi* shows where the word break is, just as with *ude* · *kime* · *nage* in lesson 5.
 
@@ -205,10 +205,10 @@ Real Japanese mixes kanji and kana. With what you know, you can now follow most 
 
 > 先生：正座。黙想。…… 黙想、止め。
 > 先生：正面に、礼。お互いに、礼。
-> 皆：お願いします！
+> みんな：お願いします！
 > 先生：見てください。片手取り、四方投げ、表と裏。はい、始め！
 > 先生：止め！ 交代してください。もう一度。
-> 皆：ありがとうございました！
+> みんな：ありがとうございました！
 
 ## 7. Where to go next
 
