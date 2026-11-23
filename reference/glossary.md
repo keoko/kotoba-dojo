@@ -195,6 +195,7 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | kokyū | こきゅう | 呼吸 | exhale-inhale; breath | 5, 8 |
 | kokyū-hō | こきゅうほう | 呼吸法 | breath method | 8 |
 | musubi | むすび | 結び | tying; connection | 8 |
+| ki-musubi | きむすび | 気結び | tying ki; connecting with the partner | 8 |
 | hanmi | はんみ | 半身 | half body; stance | 3, 8 |
 | ai-hanmi | あいはんみ | 相半身 | mutual stance; same foot forward | 3 |
 | gyaku-hanmi | ぎゃくはんみ | 逆半身 | reverse stance; opposite foot forward | 3 |

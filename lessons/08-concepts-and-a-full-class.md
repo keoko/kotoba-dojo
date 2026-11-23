@@ -26,6 +26,7 @@ Same character, everyday words. This is how kanji pay you back: learn one, read 
 | **kokyū** | 呼吸 | exhale + inhale | Breath, breath power |
 | **kokyū-hō** | 呼吸法 | breath method | Breath-power exercise (often seated) |
 | **musubi** | 結び | tying | Connection with the partner |
+| **ki-musubi** | 気結び | tying ki | Joining your partner's movement and intent from the first moment |
 | **hanmi** | 半身 | half body | The triangular stance |
 | **shikkō** | 膝行 | knee + go | Knee walking |
 | **kamiza** | 上座 | upper seat | The front, place of honour |
@@ -35,6 +36,8 @@ Same character, everyday words. This is how kanji pay you back: learn one, read 
 | **takemusu aiki** | 武産合気 | martial + birth + aiki | Spontaneous, creative aikido |
 
 Notice **心** (*shin*, "heart/mind") in *zanshin* and *shoshin*, and **身** (*mi/shin*, "body") in *hanmi*. They sound the same in compounds — *shin* — but the kanji tells you whether it's mind or body. This is why kanji matter in Japanese: many words share sounds.
+
+**Ki-musubi** 気結び (きむすび) joins two words you already know: *ki* 気 (energy, intent) + *musubi* 結び (tying, from the verb 結ぶ *musubu*, "to tie"). You tie your *ki* to your partner's, blending with their attack from the moment of contact, or even before, instead of colliding with it. Said quickly it can sound like "kimosubi". Splitting it into *ki* · *musubi* shows where the word break is, just as with *ude* · *kime* · *nage* in lesson 5.
 
 ## 3. Ranks and the dojo
 
