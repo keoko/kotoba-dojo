@@ -150,6 +150,7 @@ Cover a column and test yourself. **L** = lesson where the term is introduced.
 | uchi-kaiten-sankyō | うちかいてんさんきょう | 内回転三教 | inside turn into third teaching | 5 |
 | ude-kime-nage | うできめなげ | 腕極め投げ | arm-lock throw | 5 |
 | hiji-kime-osae | ひじきめおさえ | 肘極め押さえ | elbow-lock pin (= rokkyō) | 5 |
+| kime | きめ | 極め / 決め | lock (極め); decisive focus (決め) | 5 |
 | tenchi-nage | てんちなげ | 天地投げ | heaven-earth throw | 5, 6 |
 | koshi-nage | こしなげ | 腰投げ | hip throw | 5 |
 | kokyū-nage | こきゅうなげ | 呼吸投げ | breath throw | 5 |

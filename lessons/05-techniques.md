@@ -41,6 +41,8 @@ And *tenchi-nage* is a whole worldview in two characters: one hand to heaven, on
 
 **Ude-kime-nage** 腕極め投げ is built from three words: *ude* 腕 (arm) + *kime* 極め (lock) + *nage* 投げ (throw). *Kime* is the stem of 極める *kimeru*, "to apply a lock" (some dojos write 決め, "to settle"). It's the same *kime* as in *hiji-kime-osae*, the elbow-lock pin. Heard quickly, the name can sound like "udeki menage". Splitting a name into the words you know (*ude* · *kime* · *nage*) is the best way to catch where the word breaks really are.
 
+**Kime** on its own has two spellings with two different meanings. In aikido names it's 極め, "lock": the moment a joint is taken to its limit and held. In karate and other budō you'll more often hear 決め, "decision, settling": **focus**, all your power arriving in one decisive instant at the end of a technique. Both come from verbs pronounced *kimeru* (極める "to take to the extreme", 決める "to decide"), so you can only tell them apart by context or by the kanji.
+
 ### Free practice: jiyū-waza and randori
 
 | Term | Kanji | Literal | What it is |
